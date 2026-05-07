@@ -1,0 +1,1 @@
+ALTER TABLE public.evaluations ADD COLUMN collaborator_name text NOT NULL DEFAULT '';
